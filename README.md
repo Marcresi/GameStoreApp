@@ -1,12 +1,8 @@
-# Info Games Project
-
-Flutter project to explain how can you use flutter bloc when you don't have enough experience with the library.
-
-### Medium article
-
-I've posted an article explaining the main concept of how you can use flutter bloc in a real app. 
-
-- [Flutter bloc for begginers](https://medium.com/@ana.polo.sanchez1991/flutter-bloc-for-beginners-839e22adb9f5)
+# Games Store App Project
+ - Created a Flutter game store app powered by BLoC architecture, leveraging RAWG API for game data, and implementing dynamic category-based game filtering.
+ - BLoC Architecture: Employed BLoC (Business Logic Component) design pattern to separate concerns and manage state effectively, enhancing code maintainability and testability.
+ - Category Filtering: Enabled users to filter games by category, improving user experience and content discovery.
+ - Repository and Service Layers: Developed structured repository and service layers for efficient API calls and data management.
 
 
 ### Offical documentation about Flutter Bloc
